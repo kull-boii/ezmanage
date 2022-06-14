@@ -10,8 +10,8 @@ export default function Navbar() {
     <nav className="navbar">
       <ul>
         <li className="logo">
-          <img src={Temple} alt="dojo logo" />
-          <span>The Dojo</span>
+          <img src={Temple} alt="EzManage" />
+          <span>EzManage</span>
         </li>
 
         <li>
